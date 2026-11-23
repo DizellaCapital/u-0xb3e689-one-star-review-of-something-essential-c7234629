@@ -3,7 +3,8 @@
 Writes one deadpan one-star review of the sun to
 MAKEFUN_OUTPUT_DIR/entry.txt: the sun shows up late all winter,
 leaves early, and still expects five stars for one good sunset.
-One line, 97 characters, no trailing newline. Stdlib only.
+The complaint reads straight and the sting lands in the last few
+words. One line, 97 characters, no trailing newline. Stdlib only.
 """
 
 import os
